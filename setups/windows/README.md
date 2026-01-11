@@ -9,4 +9,9 @@ See `setup.cmd` script.
 ### Basic Windows Programming Setup
 See `setup.cmd` for the Visual Studio installation.
 
-After installing Visual Studio, you can install the Windows SDK using the Visual Studio installer.
+#### After installing Visual Studio
+- Open the Visual Studio Installer
+- Click modify on the installation
+- Check "Desktop development with C++"
+- You can remove any optional packages it automatically selects and you don't need
+- Click Modify at the bottom right

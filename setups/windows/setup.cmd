@@ -26,3 +26,9 @@ REM Paint.NET
 winget install dotPDN.PaintDotNet
 REM Visual Studio
 winget install Microsoft.VisualStudio.Community
+REM Audacity Audio Editor
+winget install Audacity.Audacity
+REM OBS Studio
+winget install OBSProject.OBSStudio
+REM Resource Hacker
+winget install AngusJohnson.ResourceHacker
