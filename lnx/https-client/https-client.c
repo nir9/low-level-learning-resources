@@ -1,3 +1,5 @@
+// THE CODE IS ONLY FOR FUN AND NOT SUITABLE FOR PRODUCTION
+
 #include <sys/socket.h>
 #include <netinet/in.h>
 #include <openssl/ssl.h>

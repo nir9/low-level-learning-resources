@@ -1,3 +1,5 @@
+; THE CODE IS ONLY FOR FUN AND NOT SUITABLE FOR PRODUCTION
+
 .intel_syntax noprefix
 
 .global write

@@ -1,3 +1,5 @@
+; THE CODE IS ONLY FOR FUN AND NOT SUITABLE FOR PRODUCTION
+
 ; This uses the nasm assembler.
 
 ; Anything containing "NOTE" can be replaced with arbitrary content. The Linux

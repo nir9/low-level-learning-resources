@@ -1,3 +1,5 @@
+// THE CODE IS ONLY FOR FUN AND NOT SUITABLE FOR PRODUCTION
+
 #include <winsock2.h>
 #include <Windows.h>
 #include <stdio.h>

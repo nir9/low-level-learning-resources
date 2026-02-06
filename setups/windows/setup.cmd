@@ -32,3 +32,5 @@ REM OBS Studio
 winget install OBSProject.OBSStudio
 REM Resource Hacker
 winget install AngusJohnson.ResourceHacker
+REM Old School Windows File Manager
+winget install winfile

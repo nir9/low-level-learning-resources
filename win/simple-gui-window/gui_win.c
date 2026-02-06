@@ -1,3 +1,5 @@
+// THE CODE IS ONLY FOR FUN AND NOT SUITABLE FOR PRODUCTION
+
 #include <Windows.h>
 
 LRESULT WinProc(HWND hWnd, UINT uMsg, WPARAM wParam, LPARAM lParam) {

@@ -1,3 +1,5 @@
+// THE CODE IS ONLY FOR FUN AND NOT SUITABLE FOR PRODUCTION
+
 #include <sys/types.h>
 #include <sys/socket.h>
 #include <netinet/in.h>
