@@ -53,6 +53,14 @@ imap <F7> <Esc>:cp<CR>
 map <F8> :cn<CR>
 imap <F8> <Esc>:cn<CR>
 
+" Go to previous/next tab
+map <F9> :tabp<CR>
+imap <F9> <Esc>:tabp<CR>
+tmap <F9> <C-W>:tabp<CR>
+map <F10> :tabn<CR>
+imap <F10> <Esc>:tabn<CR>
+tmap <F10> <C-W>:tabn<CR>
+
 map <F12> :term++curwin<CR>
 imap <F12> <Esc>:term++curwin<CR>
 tmap <F12> <C-W>:term++curwin<CR>
