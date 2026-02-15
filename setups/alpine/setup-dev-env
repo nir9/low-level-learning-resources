@@ -12,3 +12,5 @@ apk add man-pages
 apk add gdb
 # Universal Ctags
 apk add ctags
+# NASM Assembler
+apk add nasm nasm-doc
