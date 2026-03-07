@@ -14,5 +14,3 @@ apk add gdb
 apk add ctags
 # NASM Assembler
 apk add nasm nasm-doc
-# i386 GCC to enable cross compiling
-apk add gcc-i386-elf
