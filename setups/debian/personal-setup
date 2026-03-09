@@ -5,3 +5,7 @@ apt install -y mpv
 # Screen recording
 apt install -y obs-studio
 apt install -y xdg-desktop-portal-wlr
+# Video Editor
+apt install -y kdenlive
+# Vector Graphics Editor
+apt install -y inkscape
