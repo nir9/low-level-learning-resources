@@ -1,0 +1,7 @@
+#!/bin/sh
+
+# Media player
+apt install -y mpv
+# Screen recording
+apt install -y obs-studio
+apt install -y xdg-desktop-portal-wlr

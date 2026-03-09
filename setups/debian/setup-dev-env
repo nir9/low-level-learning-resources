@@ -10,3 +10,5 @@ apt install -y ltrace
 apt install -y manpages-dev
 # make command
 apt install -y make
+# GCC targeting i386
+apt install -y gcc-i686-linux-gnu
