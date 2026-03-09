@@ -1,0 +1,10 @@
+#!/bin/sh
+
+# Sway Wayland compositor
+apt install sway
+# Chromium browser
+apt install chromium
+# Wayland clipboard utilities
+apt install wl-clipboard
+# Git version control
+apt install git

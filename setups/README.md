@@ -3,7 +3,7 @@
 ### Desktop
 I have a couple of operating systems on my desktop, each on a separate drive
 
-- Windows 11
+- Debian with Sway
 - Alpine Linux with Sway
 - OpenBSD
 
