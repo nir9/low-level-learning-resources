@@ -1,0 +1,12 @@
+#!/bin/sh
+
+# GCC
+apt install -y gcc
+# system call tracer
+apt install -y strace
+# library call tracer
+apt install -y ltrace
+# development man pages
+apt install -y manpages-dev
+# make command
+apt install -y make

@@ -1,10 +1,18 @@
 #!/bin/sh
 
 # Sway Wayland compositor
-apt install sway
+apt install -y sway
 # Chromium browser
-apt install chromium
+apt install -y chromium
 # Wayland clipboard utilities
-apt install wl-clipboard
+apt install -y wl-clipboard
 # Git version control
-apt install git
+apt install -y git
+# Sway default backgrounds
+apt install -y sway-backgrounds
+# ALSA utils
+apt install -y alsa-utils
+# Vim text editor
+apt install -y vim
+# QEMU PC Emulator
+apt install -y qemu-system-x86

@@ -1,0 +1,18 @@
+#!/bin/sh
+
+# ncurses terminal graphics lib required for menuconfig
+apt install -y libncurses-dev
+# flex
+apt install -y flex
+# bison
+apt install -y bison
+# GNU bc calculator language
+apt install -y bc
+# ELF library
+apt install -y libelf-dev
+# OpenSSL library
+apt install -y libssl-dev
+# Simple bootloader
+apt install -y syslinux
+# FAT filesystem utils
+apt install -y dosfstools
