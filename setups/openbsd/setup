@@ -1,0 +1,10 @@
+#!/bin/sh
+
+# Chromium web browser
+pkg_add chromium
+# Git version control
+pkg_add git
+# Vim text editor
+pkg_add vim--no_x11
+# Sudo command
+pkg_add sudo--
