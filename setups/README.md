@@ -3,7 +3,7 @@
 ### Desktop
 I have a couple of operating systems on my desktop, each on a separate drive
 
-- Debian with Sway
+- Primary: Debian with Sway
 - Alpine Linux with Sway
 - OpenBSD
 
@@ -26,5 +26,5 @@ When cloning the kernel, I recommend using the depth flag like so ```git clone -
 I highly recommend checking out the Linux kernel documentation ```https://docs.kernel.org/```, you can also build it locally on your computer by following the instructions in the kernel source code README.
 
 ### Dependencies Installation
+- For Debian/Ubuntu instructions, refer to my setup scripts in `debian`.
 - For Alpine Linux instructions, refer to my setup scripts in `alpine`.
-- For Debian/Ubuntu instructions, refer to `debian`.
