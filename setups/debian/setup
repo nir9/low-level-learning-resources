@@ -16,3 +16,5 @@ apt install -y alsa-utils
 apt install -y vim
 # QEMU PC Emulator
 apt install -y qemu-system-x86
+# GDB
+apt install -y gdb

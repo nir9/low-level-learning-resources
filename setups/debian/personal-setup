@@ -9,3 +9,7 @@ apt install -y xdg-desktop-portal-wlr
 apt install -y kdenlive
 # Vector Graphics Editor
 apt install -y inkscape
+# Stellarium Virtual Planetarium
+apt install -y stellarium
+# Xournal++
+apt install -y xournalpp
