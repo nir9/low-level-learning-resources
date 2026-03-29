@@ -13,3 +13,9 @@ apt install -y inkscape
 apt install -y stellarium
 # Xournal++
 apt install -y xournalpp
+# PCB Design Software
+apt install -y kicad
+# Blender 3D Modeling
+apt install -y blender
+# Wine
+apt install -y wine
