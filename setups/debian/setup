@@ -18,3 +18,5 @@ apt install -y vim
 apt install -y qemu-system-x86
 # GDB
 apt install -y gdb
+# Xwayland compatibility layer for apps expecting X
+apt install -y xwayland

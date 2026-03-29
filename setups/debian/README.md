@@ -11,3 +11,6 @@ adduser <USER> sudo
 ```
 
 Now you can login to your user and run the setup scripts in this folder with `sudo`.
+
+### Useful Links
+- https://wiki.debian.org/sway
