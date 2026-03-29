@@ -1,5 +1,11 @@
 #!/bin/sh
 
+QEMU_PKG=qemu-system-x86_64
+if [[ $(arch) = i686 ]]
+then
+	QEMU_PKG=qemu-system-i386
+fi
+
 # ALSA
 apk add alsa-utils alsa-utils-doc
 # Man
@@ -19,7 +25,7 @@ apk add swaybg
 # OpenSSH Client (Adds commands like ssh-keygen for example)
 apk add openssh-client
 # QEMU with GTK UI (PC Emulator)
-apk add qemu-system-x86_64 qemu-doc qemu-ui-gtk
+apk add $QEMU_PKG qemu-doc qemu-ui-gtk
 # QEMU img utility
 apk add qemu-img
 # QEMU ALSA audio driver

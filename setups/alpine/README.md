@@ -1,9 +1,10 @@
-## Alpine Linux Setup (x86_64)
+## Alpine Linux Setup
 Boot into the installation image and run the `setup-alpine` script, make sure to create a user.
 
 Shutdown the computer and remove the installation media, then boot and run the following:
 
 ```sh
+# change to BROWSER=w3m on very slow machines
 export BROWSER=chromium
 setup-desktop sway
 ```
