@@ -17,5 +17,15 @@ apt install -y xournalpp
 apt install -y kicad
 # Blender 3D Modeling
 apt install -y blender
-# Wine
-apt install -y wine
+# Mutt Email
+apt install -y mutt
+# Audacity Audio Editor
+apt install -y audacity
+# Typing game
+apt install -y typespeed
+# 7zip
+apt install -y 7zip
+# Gedit Text Editor
+apt install -y gedit
+# PHP
+apt install -y php
