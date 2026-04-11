@@ -9,7 +9,7 @@ set shiftwidth=4
 set wildmenu
 set wildoptions=pum
 set hidden
-set wildignore=*.exe,*.dll,*.pdb
+set wildignore=*.exe,*.dll,*.pdb,*.o
 
 set guifont=Cascadia_Mono:h18
 set guioptions-=m
