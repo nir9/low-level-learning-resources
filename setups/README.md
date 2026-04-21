@@ -8,10 +8,7 @@ I have a couple of operating systems on my desktop, each on a separate drive
 - OpenBSD
 
 ### Laptop
-Alpine Linux with Sway
-
-### Subnotebook
-Alpine Linux with Sway
+Debian with Sway
 
 You can find more information regarding each OS setup in the corresponding directory.
 
