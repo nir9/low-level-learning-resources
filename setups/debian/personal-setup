@@ -29,3 +29,5 @@ apt install -y 7zip
 apt install -y gedit
 # PHP
 apt install -y php
+# GNU Image Manipulation Program
+apt install -y gimp
