@@ -5,3 +5,6 @@
 # Hardcode the real time clock to a specific date so the computer boots with the same date each time
 # TODO: Get the audio working
 qemu-system-x86_64 -hda winxp.img -snapshot -m 1G -machine pc,accel=kvm -nic none -rtc base=2025-10-22
+
+# Minimum Bootable RAM for "Safe Mode + Command Line" - `-m 18M`
+# Minimum Bootable RAM for Normal Mode - `-m 20M`
