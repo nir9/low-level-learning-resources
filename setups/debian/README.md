@@ -12,5 +12,9 @@ adduser <USER> sudo
 
 Now you can login to your user and run the setup scripts in this folder with `sudo`.
 
+## Starting the Window Manager
+
+As part of the `setup` script, the "Sway" Wayland compositor will be installed and after rebooting the computer you can start it by running `sway`.
+
 ### Useful Links
 - https://wiki.debian.org/sway
