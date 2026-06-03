@@ -12,12 +12,6 @@ apt install -y git
 apt install -y sway-backgrounds
 # ALSA utils
 apt install -y alsa-utils
-# Vim text editor
-apt install -y vim
-# QEMU PC Emulator
-apt install -y qemu-system-x86
-# GDB
-apt install -y gdb
 # Xwayland compatibility layer for apps expecting X
 apt install -y xwayland
 # The GNU info command

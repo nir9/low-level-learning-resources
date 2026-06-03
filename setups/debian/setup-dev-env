@@ -12,3 +12,9 @@ apt install -y manpages-dev
 apt install -y make
 # GCC targeting i386
 apt install -y gcc-i686-linux-gnu
+# Vim text editor
+apt install -y vim
+# QEMU PC Emulator
+apt install -y qemu-system-x86
+# GDB
+apt install -y gdb
