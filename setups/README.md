@@ -2,13 +2,15 @@
 
 ### Desktop
 I have a couple of operating systems on my desktop, each on a separate drive
-
 - Primary: Debian with Sway
-- Alpine Linux with Sway
+- Windows 11
 - OpenBSD
 
 ### Laptop
 Debian with Sway
+
+### Small Laptop
+FreeDOS
 
 You can find more information regarding each OS setup in the corresponding directory.
 
